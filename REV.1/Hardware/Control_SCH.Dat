@@ -1,0 +1,29 @@
+Field=Designator~String~Designator~89|Field=Comment~String~Comment~111|Field=Description~String~Description~220|Field=Quantity~Integer~Quantity~330|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Control_Prj.PrjPcb|ReportField=ProjectFullPath~C:\Users\tonik_000\OneDrive\Работа\Насос\Hardware\Control_Prj.PrjPcb|ReportField=Title~Bill of Materials For Schematic Document [Control_SCH.SchDoc]|ReportField=TotalQuantity~48|ReportField=ReportTime~0:54:40|ReportField=ReportDate~25.06.2015|ReportField=ReportDateTime~25.06.2015 0:54:40|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~Мешков|ReportField=Author~Самойлов|ReportField=CheckedBy~Мешков|ReportField=CompanyName~РГППУ|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~25.06.2015|ReportField=CurrentTime~0:52:07|ReportField=Date~22.06.2015|ReportField=DecimalNumber~ЛТФ.15.01 Э3|ReportField=DocumentFullPathAndName~C:\Users\tonik_000\OneDrive\Работа\Насос\Hardware\Control_SCH.SchDoc|ReportField=DocumentName~Control_SCH.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~25.06.2015|ReportField=Organization~|ReportField=ProjectName~Control_Prj.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~2|ReportField=Time~|ReportField=Title~АСУН-1|ReportField=Title2str~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Control_SCH.SchDoc|ReportField=DataSourceFullPath~C:\Users\tonik_000\OneDrive\Работа\Насос\Hardware\Control_SCH.SchDoc
+HG1|WH1601A-YYK-CTK#|Liquid crystal display|1
+XS1|USB B A-09 РОЗЕТКА НА ПЛАТУ|USB-B|1
+K1, K2|TRU-5VDC-SB-CL||2
+SA3, SA4, SA5|SWT14-13||3
+VT1, VT2, VT3, VT4|2N7002|60V, 300mA N-channel Trench MOSFET|4
+C1|100u|Generic capasitor non-polar|1
+C2, C3|20p|Generic capasitor non-polar|2
+C4|330n|Generic capasitor non-polar|1
+C5|1u|Generic capasitor non-polar|1
+C6|10n|Generic capasitor non-polar|1
+R1, R4, R5, R11|220|Generic resistor|4
+R12|750|Generic resistor|1
+R2, R9|10k|Generic resistor|2
+R3, R10|200|Generic resistor|2
+R6, R7|22|Generic resistor|2
+R8|4,7k|Generic resistor|1
+VD1, VD2|1N4001|Rectifying diode|2
+BP1|MPX5700AP|Pressure sensor, 700kPa|1
+L1, L2, L3|MPZ1608S181A|Ferrite Bead|3
+XS2|IDC-06M|SPI connector|1
+BQ1|16 МГц|Piezoelectric elements|1
+SA1, SA2|DTSM20-4.3|Switch open|2
+HL1, HL2|Orange|Diod LED SMD Orange|2
+HL3, HL4|Red|Diod LED SMD Red|2
+DA1|AD8542ARZ||1
+XT3|305-031-12|Demountable connection 3-pin|1
+XT1, XT2|305-021-12|Demountable connection  2-pin|2
+DD1|ATMega32U4-AU||1

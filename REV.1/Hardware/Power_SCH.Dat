@@ -1,0 +1,18 @@
+Field=Designator~String~Designator~100|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Control_Prj.PrjPcb|ReportField=ProjectFullPath~C:\Users\tonik_000\OneDrive\Работа\Насос\Hardware\Control_Prj.PrjPcb|ReportField=Title~Copy of Bill of Materials For Schematic Document [Power_SCH.SchDoc]|ReportField=TotalQuantity~30|ReportField=ReportTime~0:58:17|ReportField=ReportDate~25.06.2015|ReportField=ReportDateTime~25.06.2015 0:58:17|ReportField=OutputName~Copy of Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~Мешков|ReportField=Author~Самойлов|ReportField=CheckedBy~Мешков|ReportField=CompanyName~РГППУ|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~25.06.2015|ReportField=CurrentTime~0:52:07|ReportField=Date~|ReportField=DecimalNumber~ЛТФ.15.01 Э3|ReportField=DocumentFullPathAndName~C:\Users\tonik_000\OneDrive\Работа\Насос\Hardware\Power_SCH.SchDoc|ReportField=DocumentName~Power_SCH.SchDoc|ReportField=DocumentNumber~2|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~25.06.2015|ReportField=Organization~|ReportField=ProjectName~Control_Prj.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~2|ReportField=Time~|ReportField=Title~АСУН-1|ReportField=Title2str~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Power_SCH.SchDoc|ReportField=DataSourceFullPath~C:\Users\tonik_000\OneDrive\Работа\Насос\Hardware\Power_SCH.SchDoc
+C7, C8, C9, C10, C11, C13, C16|100n|Generic capasitor non-polar|7
+C12|1u|Generic capasitor non-polar|1
+C14|CA050M2R20REB-0405|2,2uF 50V Polar capacitor|1
+C15, C17|CA016M0010REB-0405|10uF 16V Polar SMD cap, 220uF 5V Polar SMD cap|2
+DA1|AD8542ARZ||1
+DA2|LM2574M-5.0||1
+DD1|ATMega32U4-AU||1
+FU1|EFuse LP60-110F|Fuse|1
+HG1|WH1601A-YYK-CTK#|Liquid crystal display|1
+HL5|Green|Diod LED SMD Green|1
+L4, L5, L6, L7, L8, L9, L10|MPZ1608S181A|Ferrite Bead|7
+L11|SCD0705T-331K-N|Inductor|1
+R13|750|Generic resistor|1
+R14|TSR 3362P-101|Resistor trimming|1
+VD3|SM15T12CA|Diod suppressor|1
+VD4|10BQ060TRPBF|DIODE SCHOTTKY 60V 1A DO214AA|1
+XS3|330-031-12||1
